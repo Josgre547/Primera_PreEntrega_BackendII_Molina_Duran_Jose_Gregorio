@@ -1,0 +1,262 @@
+[[
+     {
+         "title": "Smartphone Pro Max",
+         "description": "A high-end smartphone with stunning display and performance.",
+         "price": 999.99,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "SP1001",
+         "stock": 50,
+         "category": "Electronics",
+         "status": true
+     },
+     {
+         "title": "Laptop X200",
+         "description": "A powerful laptop designed for both work and play.",
+         "price": 1200.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "LX2002",
+         "stock": 30,
+         "category": "Computers",
+         "status": true
+     },
+     {
+         "title": "Bluetooth Headphones",
+         "description": "Premium Bluetooth headphones with exceptional sound quality.",
+         "price": 150.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "BH3003",
+         "stock": 200,
+         "category": "Audio",
+         "status": true
+     },
+     {
+         "title": "Gaming Console",
+         "description": "The latest gaming console with cutting-edge graphics.",
+         "price": 500.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "GC4004",
+         "stock": 100,
+         "category": "Gaming",
+         "status": true
+     },
+     {
+         "title": "Smart TV 55inch",
+         "description": "55-inch Smart TV with 4K resolution and HDR.",
+         "price": 800.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "ST5505",
+         "stock": 40,
+         "category": "TV",
+         "status": true
+     },
+     {
+         "title": "Wireless Mouse",
+         "description": "Ergonomic wireless mouse for smooth and precise control.",
+         "price": 25.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "WM6006",
+         "stock": 300,
+         "category": "Accessories",
+         "status": true
+     },
+     {
+         "title": "Mechanical Keyboard",
+         "description": "Durable mechanical keyboard with customizable keys.",
+         "price": 70.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "MK7007",
+         "stock": 150,
+         "category": "Computers",
+         "status": true
+     },
+     {
+         "title": "Smartwatch Series 5",
+         "description": "Feature-packed smartwatch with health tracking.",
+         "price": 250.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "SW8008",
+         "stock": 75,
+         "category": "Wearables",
+         "status": true
+     },
+     {
+         "title": "Fitness Tracker",
+         "description": "Lightweight fitness tracker with heart rate monitoring.",
+         "price": 60.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "FT9009",
+         "stock": 120,
+         "category": "Wearables",
+         "status": true
+     },
+     {
+         "title": "Digital Camera",
+         "description": "Compact digital camera with high-resolution lens.",
+         "price": 450.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "DC1010",
+         "stock": 80,
+         "category": "Photography",
+         "status": true
+     },
+     {
+         "title": "Portable Speaker",
+         "description": "Portable speaker with deep bass and long battery life.",
+         "price": 100.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "PS1111",
+         "stock": 60,
+         "category": "Audio",
+         "status": true
+     },
+     {
+         "title": "External Hard Drive",
+         "description": "External hard drive with massive storage capacity.",
+         "price": 150.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "EH1212",
+         "stock": 250,
+         "category": "Storage",
+         "status": true
+     },
+     {
+         "title": "USB Flash Drive 64GB",
+         "description": "Fast and reliable USB flash drive for all your files.",
+         "price": 20.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "UF1313",
+         "stock": 400,
+         "category": "Storage",
+         "status": true
+     },
+     {
+         "title": "Gaming Chair",
+         "description": "Comfortable gaming chair with adjustable features.",
+         "price": 180.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "GC1414",
+         "stock": 90,
+         "category": "Furniture",
+         "status": true
+     },
+     {
+         "title": "Electric Scooter",
+         "description": "High-speed electric scooter with long battery range.",
+         "price": 300.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "ES1515",
+         "stock": 50,
+         "category": "Transportation",
+         "status": true
+     },
+     {
+         "title": "Drone with Camera",
+         "description": "Drone equipped with a high-definition camera.",
+         "price": 600.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "DR1616",
+         "stock": 70,
+         "category": "Drones",
+         "status": true
+     },
+     {
+         "title": "Virtual Reality Headset",
+         "description": "Immersive virtual reality headset with intuitive controls.",
+         "price": 400.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "VR1717",
+         "stock": 85,
+         "category": "VR",
+         "status": true
+     },
+     {
+         "title": "Smart Home Hub",
+         "description": "Smart home hub for seamless device connectivity.",
+         "price": 100.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "SH1818",
+         "stock": 100,
+         "category": "Smart Home",
+         "status": true
+     },
+     {
+         "title": "3D Printer",
+         "description": "Affordable 3D printer with high-quality prints.",
+         "price": 200.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "3D1919",
+         "stock": 20,
+         "category": "3D Printing",
+         "status": true
+     },
+     {
+         "title": "Noise Cancelling Headphones",
+         "description": "Noise-cancelling headphones for immersive audio experience.",
+         "price": 350.0,
+         "thumbnail": [
+             "thumbnail1.jpg",
+             "thumbnail2.jpg"
+         ],
+         "code": "NC2020",
+         "stock": 65,
+         "category": "Audio",
+         "status": true
+     }
+ ]]
